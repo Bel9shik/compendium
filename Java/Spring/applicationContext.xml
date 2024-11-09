@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+<!--    this example for HelloBeans-->
+<!--    <bean id="testBean"-->
+<!--          class="org.NSU.kardash.springCourse.helloBeans.TestBean">-->
+<!--        <constructor-arg value="Neil"/>-->
+<!--    </bean>-->
+
+
+<!--    this example for IoC-->
+<!--    <bean id="musicBean"-->
+<!--          class="org.NSU.kardash.springCourse.IoC.RockMusic">-->
+<!--    </bean>-->
+
+    <bean id="musicBean"
+          class="org.NSU.kardash.springCourse.DI.RockMusic">
+    </bean>
+
+    <bean id = "musicPlayer"
+          class = "org.NSU.kardash.springCourse.DI.MusicPlayer">
+        <constructor-arg ref="musicBean"/>
+    </bean>
+
+
+
+</beans>

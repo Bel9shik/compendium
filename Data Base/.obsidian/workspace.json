@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "4192f8ed2af1d35e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9729d111b9771344",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a08e5fce22f49df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information/Operators/Additionals/Where.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Where"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd2803474c90d4ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a651a86c7f79fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43f54298b859d046",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "93934dcd7ce54b2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43e889b7656504fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e35ca5e6f6a8231",
+    "type": "split",
+    "children": [
+      {
+        "id": "10a1065fb33e06a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691af5de62112cf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information/Operators/Additionals/Where.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Where"
+            }
+          },
+          {
+            "id": "a4a3c4a75967e3f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information/Operators/Additionals/Where.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Where"
+            }
+          },
+          {
+            "id": "3ed791eeb401aeb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c596abffa5ed7967",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information/Operators/Additionals/Where.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Where"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a08e5fce22f49df",
+  "lastOpenFiles": [
+    "Information/Operators/Additionals/Having.md",
+    "Information/Operators/Additionals/Where.md",
+    "Information/pictures/compare operators.png",
+    "Information/pictures/binary operators.png",
+    "Information/pictures",
+    "Information/Operators/Additionals/Order by.md",
+    "Information/Operators/Additionals/Limit, fetch.md",
+    "Information/Operators/Additionals/Group By.md",
+    "Information/Operators/Additionals/From.md",
+    "Information/Operators/Additionals/And,  or, not.md",
+    "Information/Operators/Additionals/All, any, distinct.md",
+    "Information/Связывание таблиц.md",
+    "Information/Data types.md",
+    "Information/Operators/Update.md",
+    "Information/Operators/Union.md",
+    "Information/Operators/Select.md",
+    "Information/Operators/Intersect.md",
+    "Information/Operators/Insert.md",
+    "Information/Operators/Except.md",
+    "Information/Operators/Drop.md",
+    "Information/Operators/Delete.md",
+    "Information/Operators/Create table.md",
+    "Information/Operators/Alter table.md"
+  ]
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+
+    <!--    this example for HelloBeans-->
+    <!--    <bean id="testBean"-->
+    <!--          class="org.NSU.kardash.springCourse.helloBeans.TestBean">-->
+    <!--        <constructor-arg value="Neil"/>-->
+    <!--    </bean>-->
+
+
+    <!--    this example for IoC-->
+    <!--    <bean id="musicBean"-->
+    <!--          class="org.NSU.kardash.springCourse.IoC.RockMusic">-->
+    <!--    </bean>-->
+
+<!--    <context:property-placeholder location="classpath:musicPlayer.properties"/>-->
+
+<!--    <bean id="rockMusic"-->
+<!--          class="org.NSU.kardash.springCourse.DI.RockMusic">-->
+<!--    </bean>-->
+
+<!--    <bean id="classicalMusic"-->
+<!--          class="org.NSU.kardash.springCourse.DI.ClassicalMusic"-->
+<!--          init-method="doMyInit"-->
+<!--          destroy-method="doMyDestroy"-->
+<!--    scope="prototype"-->
+<!--    factory-method="getClassicalMusic">-->
+<!--    </bean>-->
+
+<!--    <bean id="jazzMusic"-->
+<!--          class="org.NSU.kardash.springCourse.DI.JazzMusic">-->
+<!--    </bean>-->
+
+    <!--    <bean id = "musicPlayer"-->
+    <!--          class = "org.NSU.kardash.springCourse.DI.MusicPlayer">-->
+    <!--        <property name = "authorName" value = "some name"/>-->
+    <!--        <property name="music" ref = "musicBean"/>-->
+    <!--        <property name="volume" value="50"/>-->
+    <!--    </bean>-->
+
+    <!--    or: -->
+<!--    <bean id="musicList"-->
+<!--          class="java.util.ArrayList"-->
+<!--          scope="prototype">-->
+
+<!--        <constructor-arg>-->
+<!--            <list>-->
+<!--                <ref bean="rockMusic"/>-->
+<!--                <ref bean="rockMusic"/>-->
+<!--                <ref bean="rockMusic"/>-->
+<!--                <ref bean="jazzMusic"/>-->
+<!--                <ref bean="classicalMusic"/>-->
+<!--            </list>-->
+<!--        </constructor-arg>-->
+
+<!--    </bean>-->
+
+<!--    <bean id="musicPlayer"-->
+<!--          class="org.NSU.kardash.springCourse.DI.MusicPlayer"-->
+<!--          scope="prototype"-->
+<!--          init-method="doMyInit"-->
+<!--          destroy-method="doMyDestroy">-->
+<!--        <property name="authorName" value="${musicPlayer.authorName}"/>-->
+<!--        <property name="music" ref="classicalMusic"/>-->
+<!--        <property name="volume" value="${musicPlayer.volume}"/>-->
+<!--        <property name="musicList" ref="musicList"/>-->
+<!--    </bean>-->
+
+
+
+
+
+
+<!--    WITH ANNOTATIONS        -->
+
+
+    <context:component-scan base-package="org.NSU.kardash.springCourse.Annotations"/>
+    <context:property-placeholder location="classpath:musicPlayer.properties"/>
+
+
+</beans>

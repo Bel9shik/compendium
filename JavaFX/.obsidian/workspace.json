@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "f13238dafb7cac36",
+    "type": "split",
+    "children": [
+      {
+        "id": "554b6cd82babd0ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d1769bf86e5793e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/Scene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene"
+            }
+          },
+          {
+            "id": "64337e184354e89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/Objects/Font.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Font"
+            }
+          },
+          {
+            "id": "1b0ae4fea496888a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/HBox.png"
+              },
+              "icon": "lucide-image",
+              "title": "HBox"
+            }
+          },
+          {
+            "id": "bcee67342761f70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/UI Control/TextArea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TextArea"
+            }
+          },
+          {
+            "id": "e5860758290d34dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/Pane/Layout/BorderPane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BorderPane"
+            }
+          },
+          {
+            "id": "d1552ee1f9ff6df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/UI Control/RadioButton.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RadioButton"
+            }
+          },
+          {
+            "id": "3df8116359d2825a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Components/Pane/Layout/Pane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pane"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e4d1fce7a5f10e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3656d2576d9d2765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b522a77c6731b1f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b581e52d14488697",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34f9ca8de53c1abb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4e672d594357933",
+    "type": "split",
+    "children": [
+      {
+        "id": "7665fdc3c9661014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a185eaf5e2ed7fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Components/Scene.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Scene"
+            }
+          },
+          {
+            "id": "d9a7e2f2f7164804",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Components/Scene.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Scene"
+            }
+          },
+          {
+            "id": "9545afad5d699792",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20d577e0c84bb1e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Components/Scene.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Scene"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e5860758290d34dc",
+  "lastOpenFiles": [
+    "pictures/Slider.png",
+    "pictures/ScrollBar.png",
+    "Components/UI Control/Slider.md",
+    "Components/UI Control/Property.md",
+    "Components/UI Control/ScrollBar.md",
+    "Components/UI Control/ScrollPane.md",
+    "pictures/ScrollPane and TextArea.png",
+    "Components/UI Control/TextArea.md",
+    "Components/Objects/Text.md",
+    "Components/Objects/Font.md",
+    "Components/UI Control/TextField.md",
+    "Components/UI Control/ToggleGroup.md",
+    "Components/UI Control/RadioButton.md",
+    "Components/Objects/Objects.md",
+    "pictures/RadioButton.png",
+    "Components/UI Control/Checkbox.md",
+    "pictures/CheckBox.png",
+    "Components/UI Control/Label.md",
+    "Components/UI Control/Label 1.md",
+    "pictures/Label.png",
+    "Components/Animation/Timeline.md",
+    "Components/Animation/FadeTransition.md",
+    "Components/Animation/PathTransition.md",
+    "pictures/GridPane.png",
+    "pictures/HBox 1.png",
+    "pictures/HBox.png",
+    "Components/Animation/ImageView.md",
+    "Components/Animation/Image.md",
+    "Components/Scene.md",
+    "Components/Stage.md",
+    "Components/UI Control/Animation.md",
+    "Components/UI Control/Button.md",
+    "Components/UI Control/ListView.md",
+    "Components/UI Control/ComboBox.md",
+    "pictures/BorderPane.png",
+    "pictures",
+    "Components/Objects",
+    "Components/Pane/Layout",
+    "Components/Listeners/Multimedia",
+    "Components/Animation",
+    "Components/Listeners",
+    "Components/Pane",
+    "Components/UI Control",
+    "Components/Shapes/Untitled",
+    "Components/Pane/Shapes"
+  ]
+}
