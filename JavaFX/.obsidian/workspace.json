@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components/Pane/Layout/BorderPane.md",
+                "file": "Components/Scene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BorderPane"
+              "title": "Scene"
             }
           },
           {
@@ -247,6 +247,8 @@
   },
   "active": "e5860758290d34dc",
   "lastOpenFiles": [
+    "Components/UI Control/Button.md",
+    "Components/Pane/Layout/BorderPane.md",
     "pictures/Slider.png",
     "pictures/ScrollBar.png",
     "Components/UI Control/Slider.md",
@@ -278,7 +280,6 @@
     "Components/Scene.md",
     "Components/Stage.md",
     "Components/UI Control/Animation.md",
-    "Components/UI Control/Button.md",
     "Components/UI Control/ListView.md",
     "Components/UI Control/ComboBox.md",
     "pictures/BorderPane.png",

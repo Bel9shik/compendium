@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General_infomation/Annotations/@ComponentScan.md",
+                "file": "General_infomation/Annotations/@Autowired.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ComponentScan"
+              "title": "@Autowired"
             }
           }
         ]
@@ -160,13 +160,20 @@
   },
   "active": "309b92430cc34d4a",
   "lastOpenFiles": [
-    "General_infomation/Annotations/@Component.md",
+    "General_infomation/Annotations/@PropertySource.md",
+    "General_infomation/Annotations/@Scope.md",
+    "General_infomation/Annotations/@Qualifier.md",
+    "General_infomation/Bean.md",
+    "General_infomation/Annotations/@PostConstruct.md",
+    "General_infomation/Annotations/@Valid.md",
+    "General_infomation/Annotations/@Value.md",
     "General_infomation/Annotations/@Configuration.md",
+    "General_infomation/Annotations/@Autowired.md",
+    "General_infomation/Annotations/@ComponentScan.md",
+    "General_infomation/Annotations/@Component.md",
     "General_infomation/Dependency injection.md",
     "General_infomation/Config.md",
-    "General_infomation/Annotations/@Autowired.md",
     "General_infomation/Annotations/@Controller.md",
-    "General_infomation/Annotations/@Valid.md",
     "General_infomation/Annotations/@Min.md",
     "General_infomation/Annotations/@Email.md",
     "General_infomation/Annotations/@Size.md",
@@ -182,13 +189,6 @@
     "General_infomation/CRUD/Methods/UPDATE.md",
     "General_infomation/CRUD/Methods/READ.md",
     "General_infomation/CRUD/Methods/DELETE.md",
-    "General_infomation/CRUD/Methods/CREATE.md",
-    "Spring MVC/Маппинги/PATCH.md",
-    "Spring MVC/Маппинги/POST.md",
-    "General_infomation/Annotations/Annotations.md",
-    "General_infomation/Annotations/General.md",
-    "General_infomation/Annotations/@Qualifier.md",
-    "General_infomation/Annotations/@PostConstruct.md",
     "General_infomation/REST",
     "pictures/CRUD example.png",
     "General_infomation/CRUD/Methods",

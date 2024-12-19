@@ -14,6 +14,7 @@
 	    this.rockMusic = rockMusic;  
 	}
 
+Эквивалентный пример:
 
 	@Autowired  
 	@Qualifier ("classicalMusic")  
@@ -21,6 +22,3 @@
 	@Autowired  
 	@Qualifier("someRockMusic")  
 	private Music rockMusic;
-
-
-Два примера выше эквиваленты
