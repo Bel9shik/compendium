@@ -45,7 +45,7 @@
 	    return "first/hello";  
 	}
 
-	С required = false:
+С required = false:
 
 	@GetMapping("/hello")  
 	public String hello(@RequestParam(value = "name", required = false) String name) {  

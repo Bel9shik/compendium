@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information/Cursor.md",
+                "file": "Information/Normal forms/Third.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cursor"
+              "title": "Third"
+            }
+          },
+          {
+            "id": "b065f3fe0e0aab21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information/Оконные функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оконные функции"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,31 +178,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a08e5fce22f49df",
+  "active": "b065f3fe0e0aab21",
   "lastOpenFiles": [
-    "Information/Join's Связывание таблиц.md",
-    "Information/Operators/Insert.md",
-    "Information/Operators/Additionals/All, any, distinct.md",
-    "Information/Operators/Update.md",
-    "Information/Operators/Union.md",
-    "Information/Cursor.md",
+    "Information/Index.md",
     "Information/DB типы.md",
-    "Information/Operators/Intersect.md",
-    "Information/Operators/Except.md",
+    "Information/Data types.md",
     "Information/Transaction and ACID.md",
     "Information/Тупики (deadlocks).md",
+    "Information/Normal forms/Third.md",
+    "Information/Operators/Intersect.md",
+    "Information/Operators/Insert.md",
+    "Information/Operators/Union.md",
+    "Information/Operators/Except.md",
+    "Information/Cursor.md",
+    "Information/Join's Связывание таблиц.md",
+    "Information/Operators/Additionals/All, any, distinct.md",
+    "Information/Operators/Additionals/And,  or, not.md",
+    "Information/Operators/Drop.md",
+    "Information/Operators/Update.md",
+    "Information/Operators/Additionals/Limit.md",
+    "Information/Operators/Additionals/From.md",
+    "Information/Триггер.md",
+    "Information/Оконные функции.md",
     "Information/Normal forms/Second.md",
     "Information/Normal forms/First.md",
-    "Information/Оконные функции.md",
-    "Information/Normal forms/Third.md",
-    "Information/Operators/Additionals/Order by.md",
-    "Information/Триггер.md",
-    "Information/Operators/Additionals/Group By.md",
     "Information/VIEW.md",
-    "Information/Index.md",
+    "Information/Operators/Additionals/Order by.md",
+    "Information/Operators/Additionals/Group By.md",
     "Information/Operators/Select.md",
     "Information/pictures/Pasted image 20241127154545.png",
-    "Seminar 2.md",
     "Information/pictures/Pasted image 20241126194551.png",
     "Information/pictures/Pasted image 20241126194804.png",
     "Pasted image 20241126194813.png",
@@ -196,16 +216,12 @@
     "Information/pictures/Pasted image 20241126194433.png",
     "Information/pictures/Pasted image 20241126194351.png",
     "Information/pictures/Pasted image 20241126194142.png",
-    "Information/Data types.md",
     "Information/Functions/Window functions",
     "Information/Functions",
-    "Information/Functions/Untitled.md",
     "Information/Functions/Window functions",
     "Information/Functions",
     "Information/Normal forms/Untitled",
     "Information/Normal forms",
-    "Information/Operators/Additionals/And,  or, not.md",
-    "Information/Operators/Alter table.md",
     "Information/pictures"
   ]
 }
