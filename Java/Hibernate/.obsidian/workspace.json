@@ -1,41 +1,70 @@
 {
   "main": {
-    "id": "4192f8ed2af1d35e",
+    "id": "676becda1a4c6ca8",
     "type": "split",
     "children": [
       {
-        "id": "9729d111b9771344",
+        "id": "746531dabfee1142",
         "type": "tabs",
         "children": [
           {
-            "id": "7a08e5fce22f49df",
+            "id": "56642303f7a3a77f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information/Operators/Select.md",
+                "file": "Annotations/@JoinTable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Select"
+              "title": "@JoinTable"
+            }
+          },
+          {
+            "id": "2ee8e642dcc854be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotations/@ManyToMany.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@ManyToMany"
+            }
+          },
+          {
+            "id": "4117ec72a57ccc50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Annotations/@JoinTable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "@JoinTable"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dd2803474c90d4ca",
+    "id": "dab93b6a90fc7dbd",
     "type": "split",
     "children": [
       {
-        "id": "66a651a86c7f79fd",
+        "id": "0b8abeeb21560952",
         "type": "tabs",
         "children": [
           {
-            "id": "43f54298b859d046",
+            "id": "f934c83b9e052316",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +77,7 @@
             }
           },
           {
-            "id": "93934dcd7ce54b2c",
+            "id": "33df563414e7fc73",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +94,7 @@
             }
           },
           {
-            "id": "43e889b7656504fa",
+            "id": "8d3d12ad43516b2f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +107,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "3e35ca5e6f6a8231",
+    "id": "3c0948dbfd683055",
     "type": "split",
     "children": [
       {
-        "id": "10a1065fb33e06a7",
+        "id": "b270bcf71ccf7ef5",
         "type": "tabs",
         "children": [
           {
-            "id": "691af5de62112cf1",
+            "id": "a906eddc147050c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information/Operators/Additionals/Where.md",
+                "file": "Annotations/@JoinColumn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +133,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Where"
+              "title": "Backlinks for @JoinColumn"
             }
           },
           {
-            "id": "a4a3c4a75967e3f4",
+            "id": "ced2db226d8426c4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information/Operators/Additionals/Where.md",
+                "file": "Annotations/@JoinColumn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Where"
+              "title": "Outgoing links from @JoinColumn"
             }
           },
           {
-            "id": "3ed791eeb401aeb5",
+            "id": "ffe2f925394788fb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "c596abffa5ed7967",
+            "id": "9c0a0992fbe55ed9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information/Operators/Additionals/Where.md"
+                "file": "Annotations/@JoinColumn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Where"
+              "title": "Outline of @JoinColumn"
             }
           }
         ]
@@ -155,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,50 +197,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a08e5fce22f49df",
+  "active": "4117ec72a57ccc50",
   "lastOpenFiles": [
-    "Information/Join's Связывание таблиц.md",
-    "Information/Normal forms/Third.md",
-    "Seminar 2.md",
-    "Information/test dataview.md",
-    "Information/VIEW.md",
-    "Information/Оконные функции.md",
-    "Information/Index.md",
-    "Information/DB типы.md",
-    "Information/Data types.md",
-    "Information/Transaction and ACID.md",
-    "Information/Тупики (deadlocks).md",
-    "Information/Operators/Intersect.md",
-    "Information/Operators/Insert.md",
-    "Information/Operators/Union.md",
-    "Information/Operators/Except.md",
-    "Information/Cursor.md",
-    "Information/Operators/Additionals/All, any, distinct.md",
-    "Information/Operators/Additionals/And,  or, not.md",
-    "Information/Operators/Drop.md",
-    "Information/Operators/Update.md",
-    "Information/Operators/Additionals/Limit.md",
-    "Information/Operators/Additionals/From.md",
-    "Information/Триггер.md",
-    "Information/Normal forms/Second.md",
-    "Information/Normal forms/First.md",
-    "Information/Operators/Additionals/Order by.md",
-    "Information/pictures/Pasted image 20241127154545.png",
-    "Information/pictures/Pasted image 20241126194551.png",
-    "Information/pictures/Pasted image 20241126194804.png",
-    "Pasted image 20241126194813.png",
-    "Information/pictures/Pasted image 20241126194739.png",
-    "Information/pictures/Pasted image 20241126194707.png",
-    "Information/pictures/Pasted image 20241126194330.png",
-    "Information/pictures/Pasted image 20241126194433.png",
-    "Information/pictures/Pasted image 20241126194351.png",
-    "Information/pictures/Pasted image 20241126194142.png",
-    "Information/Functions/Window functions",
-    "Information/Functions",
-    "Information/Functions/Window functions",
-    "Information/Functions",
-    "Information/Normal forms/Untitled",
-    "Information/Normal forms",
-    "Information/pictures"
+    "Annotations/@ManyToMany.md",
+    "Annotations/@ManyToOne.md",
+    "Annotations/@OneToMany.md",
+    "Annotations/@JoinTable.md",
+    "Pasted image 20250327203518.png",
+    "pictures/@ManyToMany.png",
+    "Annotations/@OneToOne.md",
+    "Annotations/@JoinColumn.md",
+    "Cascade types/Persist.md",
+    "Hibernate введение.md",
+    "States/Detached.md",
+    "pictures/save vs persist.png",
+    "Cascade types",
+    "pictures/removed state.png",
+    "States/Removed.md",
+    "pictures/detached state.png",
+    "States/Persistent.md",
+    "pictures/persistent state.png",
+    "States/Transient.md",
+    "States",
+    "pictures/transient state.png",
+    "Annotations/@GeneratedValue.md",
+    "HQL.md",
+    "pictures/hql vs sql.png",
+    "Annotations/@Table.md",
+    "Annotations/@Entity.md",
+    "Annotations/@Column.md",
+    "Annotations",
+    "Transaction.md",
+    "pictures/transaction examlpe.png",
+    "pictures",
+    "Session.md"
   ]
 }
