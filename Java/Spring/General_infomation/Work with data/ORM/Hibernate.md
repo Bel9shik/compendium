@@ -1,0 +1,1 @@
+Смотреть на отдельную папку Hibernate в compendium
