@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "309b92430cc34d4a",
+            "id": "9bd76cbd343d284f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General_infomation/Annotations/Spring JPA/Load vs Get.md",
+                "file": "Spring Security/Spring Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load vs Get"
-            }
-          },
-          {
-            "id": "4f270829bae7ceae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General_infomation/Annotations/Spring JPA/@Repository.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Repository"
+              "title": "Spring Security"
             }
           },
           {
@@ -202,53 +188,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "309b92430cc34d4a",
+  "active": "9bd76cbd343d284f",
   "lastOpenFiles": [
-    "General_infomation/Work with data/DAO/DAO.md",
+    "pictures/@PreAuthiorize.png",
+    "Spring Security/@PreAuthorize.md",
+    "Spring Security/Spring Security.md",
+    "General_infomation/Application context.md",
+    "pictures/roles vs autorities.png",
+    "pictures/authenticate first.png",
+    "Spring Security/CSRF.md",
+    "Spring Security/Storing info/Cookies.md",
+    "General_infomation/Annotations/Hibernate/Validator/@NotEmpty.md",
+    "General_infomation/Annotations/Spring JPA/@DateTimeFormat.md",
+    "pictures/springSecurity after.png",
+    "pictures/authenticationProvider examples.png",
+    "pictures/spring security example.png",
+    "Spring Security/Storing info/Session.md",
+    "pictures/Session.png",
+    "Spring Security/Storing info.md",
+    "Spring Security/Storing info",
+    "Spring Security/Аутентификация/AuthenticationProvider.md",
+    "pictures/sessions and cookies.png",
+    "Spring Security/Аутентификация/Authentication.md",
+    "Spring MVC/Controller.md",
+    "pictures/authentication spring security.png",
+    "General_infomation/Annotations/Spring JPA/@Repository.md",
+    "Spring Security/Аутентификация",
+    "Spring boot/Spring boot.md",
+    "Spring Se.md",
+    "General_infomation/Annotations/Hibernate/@Transient.md",
+    "pictures/@Transient.png",
     "General_infomation/Annotations/Spring JPA/Load vs Get.md",
+    "General_infomation/Work with data/DAO/DAO.md",
     "Spring JPA/Spring JPA.md",
-    "pictures/solution N + 1 problem.png",
-    "pictures/N+1 problem.png",
-    "Pasted image 20250330212628.png",
-    "Pasted image 20250330212625.png",
-    "Pasted image 20250330212623.png",
     "General_infomation/Annotations/Hibernate/Validator/@Pattern.md",
     "Spring MVC/HTTP методы/GET.md",
     "General_infomation/Java-код.md",
     "General_infomation/Annotations/Annotations.md",
     "General_infomation/Work with data/Validator.md",
     "General_infomation/Annotations/Spring JPA/@Enumerated.md",
-    "Pasted image 20250330211533.png",
-    "pictures/validator uses.png",
-    "pictures/person_example.png",
-    "pictures/validator.png",
-    "General_infomation/REST/REST.md",
     "General_infomation/Work with data",
-    "General_infomation/Annotations/Spring JPA/@DateTimeFormat.md",
-    "General_infomation/Annotations/Spring JPA/@Repository.md",
-    "General_infomation/Annotations/Spring JPA/@Temporal.md",
-    "pictures/@temporal.png",
-    "General_infomation/Annotations/Spring JPA/@Service.md",
     "General_infomation/Annotations/Spring JPA",
-    "General_infomation/Work with data/ORM/Hibernate.md",
-    "General_infomation/Work with data/ORM/ORM.md",
-    "General_infomation/CRUD/Methods/UPDATE.md",
-    "General_infomation/CRUD/Methods/READ.md",
-    "General_infomation/CRUD/Methods/CREATE.md",
-    "General_infomation/Annotations/@Component.md",
-    "Spring boot/Spring boot.md",
     "Spring JPA",
-    "General_infomation/Annotations/@ComponentScan.md",
-    "General_infomation/Annotations/@Bean.md",
-    "General_infomation/Inversion of control.md",
-    "General_infomation/Dependency injection.md",
     "General_infomation/ORM/Hibernate",
     "General_infomation/Work with data/ORM",
-    "General_infomation/Untitled.md",
     "General_infomation/Annotations/Hibernate/Validator",
     "General_infomation/Annotations/Hibernate",
-    "General_infomation/Work with data/DAO",
-    "General_infomation/REST",
-    "General_infomation/CRUD/Methods"
+    "General_infomation/Work with data/DAO"
   ]
 }
