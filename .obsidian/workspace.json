@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9abc13d849399af",
+  "active": "fd3dd0b20558fd63",
   "lastOpenFiles": [
-    "JWT structure.png",
     "Java/JWT/JWT.md",
+    "Java/pictures/JWT structure.png",
     "Java/pictures/JWT how to work.png",
     "Java/pictures/JWT.png",
     "Java/pictures/microservice problem.png",
